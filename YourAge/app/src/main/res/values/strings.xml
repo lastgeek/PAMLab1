@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your Age</string>
+    <string name="user_date">Your Date</string>
+    <string name="example_date">01.01.2000</string>
+    <string name="calculate">Calculate</string>
+    <string name="yourAgeText">Your age:</string>
+</resources>
+
+
